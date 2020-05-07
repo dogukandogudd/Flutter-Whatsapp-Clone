@@ -18,7 +18,7 @@ class ChatScreenState extends State {
           ),
           ListTile(
             leading: CircleAvatar(
-              backgroundImage: NetworkImage(fakeData[i].avatarUrl),
+              backgroundImage: NetworkImage(fakeData[i].avatarUrl),          
             ),
             title: Row(mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[

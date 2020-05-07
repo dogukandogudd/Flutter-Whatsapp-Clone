@@ -26,7 +26,7 @@ class CallScreenState extends State {
                 fakeData[i].name,
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
-              Icon(Icons.videocam),
+              Icon(Icons.videocam,color:Color(0xff075E54),),
             ]),
             subtitle: Container(
               padding: EdgeInsets.only(top: 5.0),

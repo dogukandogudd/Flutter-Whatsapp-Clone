@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp_clone/screens/call_screen.dart';
+import 'package:whatsapp_clone/screens/camera.dart';
 import 'package:whatsapp_clone/screens/chat_screen.dart';
-import 'package:whatsapp_clone/screens/states_screen.dart';
+import 'package:whatsapp_clone/screens/status_screen.dart';
 
 class Home extends StatefulWidget{
   @override
@@ -39,7 +40,7 @@ class _HomeState extends State with SingleTickerProviderStateMixin{
       body: TabBarView(
         controller: _tabController,
         children: <Widget>[
-          Text("Kamera"),
+          CameraScreen(),
           ChatScreen(),
           StatusScreen(),
           CallScreen(),
