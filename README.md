@@ -2,7 +2,8 @@
 Doğukan Doğu
 Whatsapp Klon
 6 Mayıs 2020
-https://docs.google.com/document/d/1UL38arFAqmmuqPLthQViVPg1PC9fXB-Biq9VuDVlmv4/edit?usp=sharing
+https://docs.google.com/document/d/1UL38arFAqmmuqPLthQViVPg1PC9fXB-Biq9VuDVlmv4/edit?usp=sharing 
+
 GENEL BAKIŞ
 Flutter ile Whatsapp görünümünde bir klon oluşturulup Firebase ile oluşturulmuş örnek verileri kullanmak. 
 HEDEFLER
