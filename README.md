@@ -14,7 +14,7 @@ Vize Hedefleri
 2.	Fake data oluşturup bu verileri ekranlara çekmek
 Final Hedefleri
 1.	Kamera ekranının oluşturulması
-2.	Firebase ile temel bir veritabanına bağlamak
+2.	Firebase ile temel bir veritabanına bağlamak-
 
 ÖZELLİKLER
 Orjinal whatsapp uygulamasına en yakın görünüme sahip olan ekranlar arasında sadece gezebilirsiniz.
