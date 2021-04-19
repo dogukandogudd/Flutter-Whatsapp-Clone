@@ -2,6 +2,7 @@
 Doğukan Doğu
 Whatsapp Klon
 6 Mayıs 2020
+DocumentLink
 https://docs.google.com/document/d/1UL38arFAqmmuqPLthQViVPg1PC9fXB-Biq9VuDVlmv4/edit?usp=sharing 
 
 GENEL BAKIŞ
